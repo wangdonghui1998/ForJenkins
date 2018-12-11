@@ -6,5 +6,6 @@ public class helloword {
 	@Test
 	public void test() {
 		System.out.println("forjenkins");
+		System.out.println("forjenkins");
 	}
 }
